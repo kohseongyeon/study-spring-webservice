@@ -1,7 +1,8 @@
 package study.domain.posts;
 
-import lombok.Getter;
+
 import lombok.Builder;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
